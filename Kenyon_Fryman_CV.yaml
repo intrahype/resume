@@ -261,18 +261,18 @@ locale:
   #   - November
   #   - December
 settings:
-  current_date: '2025-12-17'
+  current_date: '2026-01-05'
   render_command:
     design:
     locale:
-    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
-    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
-    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
-    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
-    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE.png
     dont_generate_markdown: false
-    dont_generate_html: false
+    dont_generate_html: true
     dont_generate_typst: false
     dont_generate_pdf: false
-    dont_generate_png: false
+    dont_generate_png: true
   bold_keywords: []

@@ -9,7 +9,6 @@
 
 
 # Education
-
 ## **Kansas State University**, Political Science
 
 **B.S.**
@@ -28,12 +27,11 @@ Remote, USA
 
 Aug 2024 – July 2027
 
-#summary[A Post-baccalaureate option program for a second degree]
+A Post-baccalaureate option program for a second degree
 
 
 
 # Experience
-
 ## **Google LLC**, IT Support Engineer
 
 Seattle, WA
@@ -44,7 +42,7 @@ Feb 2021 – Sept 2024
 
 3 years 8 months
 
-#summary[Provided Tier 2 and 3 support for Google Employees.  Worked on special projects to enhance effciency in troubleshooting virtual desktops.]
+Provided Tier 2 and 3 support for Google Employees.  Worked on special projects to enhance effciency in troubleshooting virtual desktops.
 
 - Senior Engineer and Mentor for onboarding new engineers
 
@@ -66,7 +64,7 @@ Aug 2020 – Jan 2021
 
 6 months
 
-#summary[Provide Tier 1 and 2 support to local schools and assist in the 1:1 technology initiative.]
+Provide Tier 1 and 2 support to local schools and assist in the 1:1 technology initiative.
 
 - Helped update internal knowledgebase to make it more accessible and up-to-date.
 
@@ -86,7 +84,7 @@ Mar 2018 – July 2020
 
 2 years 5 months
 
-#summary[Tier 1 support for 600 end users.  Supporting iPadOS, Windows, and MacOS.]
+Tier 1 support for 600 end users.  Supporting iPadOS, Windows, and MacOS.
 
 - Updated wordpress CMS for school website
 
@@ -95,47 +93,43 @@ Mar 2018 – July 2020
 
 
 # Projects
-
-## **#link("https://github.com/")[Portfolio]**
+## **[Portfolio](https://github.com/)**
 
 Dec 2025 – present
 
-#summary[Small excerpts of programs and scripts to showcase skill in Object Oriented Programming and Scripting]
+Small excerpts of programs and scripts to showcase skill in Object Oriented Programming and Scripting
 
 - All scripts are ones initially written for past positions
 
 
 
-## **#link("https://github.com/")[resume]**
+## **[resume](https://github.com/)**
 
 Aug 2006 – present
 
-#summary[repository holding a copy of this resume and its configuration]
+repository holding a copy of this resume and its configuration
 
 
 
 # Certifications
-
 - Google IT Professional Support Certificate (2019)
 
-- Microsoft C\# Fundamentals (2024)
+- Microsoft C# Fundamentals (2024)
 
 - Programming Fundamentals Microcredential - Oregon State University (2025)
 
 # Skills
+**Languages:** Python, Markdown, C#, Bash, Powershell
 
-- Languages: Python, Markdown, C\#, Bash, Powershell
+**Operating Systems:** Windows, MacOS, Android, iOS, Linux
 
-- Operating Systems: Windows, MacOS, Android, iOS, Linux
+**Frameworks:** Django, Flask
 
-- Frameworks: Django, Flask
-
-- Soft Skills: Customer Service, Cross-team Collaboration, Mentorship
+**Soft Skills:** Customer Service, Cross-team Collaboration, Mentorship
 
 # Volunteer work
+1. Books to Prisoners - Seattle, WA
 
-- Books to Prisoners - Seattle, WA
+1. PyCon 2025 Volunteer
 
-- PyCon 2025 Volunteer
-
-- ATmosphere Conf Volunteer 2026
+1. ATmosphere Conf Volunteer 2026
