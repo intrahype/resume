@@ -216,5 +216,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
+# MacOS
 .DS_store
+
+# Directory
+rendercv_output2/

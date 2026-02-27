@@ -17,6 +17,8 @@ Manhattan, KS
 
 Dec 2012
 
+Focus in statistal science and Western European politics
+
 
 
 ## **Oregon State University**, Computer Engineering
@@ -78,11 +80,11 @@ Provide Tier 1 and 2 support to local schools and assist in the 1:1 technology i
 
 Garden City, KS
 
-Mar 2018 – July 2020
+Mar 2019 – July 2020
 
 
 
-2 years 5 months
+1 year 5 months
 
 Tier 1 support for 600 end users.  Supporting iPadOS, Windows, and MacOS.
 
@@ -119,11 +121,11 @@ repository holding a copy of this resume and its configuration
 - Programming Fundamentals Microcredential - Oregon State University (2025)
 
 # Skills
-**Languages:** Python, Markdown, C#, Bash, Powershell
+**Languages:** Python, Markdown, C#, Bash, Powershell, Javascript
 
 **Operating Systems:** Windows, MacOS, Android, iOS, Linux
 
-**Frameworks:** Django, Flask
+**Frameworks:** Django, Flask, Express, React
 
 **Soft Skills:** Customer Service, Cross-team Collaboration, Mentorship
 

@@ -3,9 +3,9 @@ cv:
   name: Kenyon Fryman
   headline: Senior IT Support Engineer
   location: Seattle, WA
-  email: kenyon.fryman@gmail.com
+  email: ksf@intrahype.net
   photo:
-  phone: +1 (620) 640-1963
+  phone: +1 (206) 659-1536
   website: https://intrahype.net/
   social_networks:
     - network: LinkedIn
@@ -64,70 +64,6 @@ cv:
         highlights:
           - Updated wordpress CMS for school website
           - Created effective rollout of new technology to ensure equitable distribution
-      - company: Garden City Public Schools
-        position: Paraprofessional
-        date:
-        start_date: 2018-08
-        end_date: 2019-03
-        location: Garden City, KS
-        summary: Math Tutor for at-risk students
-        highlights:
-          - Worked with 7th grade students to close gaps in knowledge using state cirriculum
-      - company: Einstein's Bagel
-        position: Baker
-        date:
-        start_date: 2017-05
-        end_date: 2018-07
-        location: Arvada, CO
-        summary: Keyholder position resposible for daily baking and ordering
-      - company: Complete Wedding and Events
-        position: Professional DJ Entertainer
-        date:
-        start_date: 2011-04
-        end_date: 2017-06
-        location: Manhattan, KS & Denver, CO
-        summary: DJ and Emcee for events including Weddings, School Events, and Charities.
-        highlights:
-          - Performed over 600 events with an average 9.5/10 review
-          - Cross trained for photo booths and videography
-          - 2012 Rookie of the Year award
-          - 2014 Photo Booth Operator of the Year award
-      - company: Starbucks
-        position: Barista
-        date:
-        start_date: 2016-09
-        end_date: 2017-02
-        location: Wheat Ridge, CO
-        summary: Daily operations included opening store and serving customers
-      - company: Kansas State Legislature
-        position: Office Assistant
-        date:
-        start_date: 2016-01
-        end_date: 2016-05
-        location: Topeka, KS
-        summary: Supported assigned Representative updating calender, writing testimony, and responding to constituents
-        highlights:
-          - Helped craft testimony for multiple bills helping pass legislation for transportation policy
-      - company: Kansas State University
-        position: Utility Worker
-        date:
-        start_date: 2014-10
-        end_date: 2015-12
-        location: Manhattan, KS
-        summary: Daily cleaning and landscaping on campus
-        highlights:
-          - Worked multiple sporting events to help ensure cleanliness
-          - Cross-trained as equipment operator 
-      - company: Hilton Garden Inn
-        position: Front Desk Representative
-        date:
-        start_date: 2013-06
-        end_date: 2014-08
-        location: Manhattan, KS
-        summary: Helped with daily check-in and check-out
-        highlights:
-          - Responsible for daily cash counts 
-          - Acted as Concierge for high-profile guests
     projects:
       - name: '[Portfolio](https://github.com/)'
         date:
@@ -330,11 +266,11 @@ settings:
   render_command:
     design:
     locale:
-    typst_path: rendercv_output2/NAME_IN_SNAKE_CASE.typ
-    pdf_path: rendercv_output2/NAME_IN_SNAKE_CASE.pdf
-    markdown_path: rendercv_output2/NAME_IN_SNAKE_CASE.md
-    html_path: rendercv_output2/NAME_IN_SNAKE_CASE.html
-    png_path: rendercv_output2/NAME_IN_SNAKE_CASE.png
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE.png
     dont_generate_markdown: false
     dont_generate_html: true
     dont_generate_typst: false

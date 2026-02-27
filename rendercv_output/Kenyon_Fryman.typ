@@ -103,6 +103,8 @@
   [
     #strong[Kansas State University], Political Science
 
+    #summary[Focus in statistal science and Western European politics]
+
   ],
   [
     Manhattan, KS
@@ -197,9 +199,9 @@
   [
     Garden City, KS
 
-    Mar 2018 – July 2020
+    Mar 2019 – July 2020
 
-    2 years 5 months
+    1 year 5 months
 
   ],
 )
@@ -244,11 +246,11 @@
 
 == Skills
 
-#strong[Languages:] Python, Markdown, C\#, Bash, Powershell
+#strong[Languages:] Python, Markdown, C\#, Bash, Powershell, Javascript
 
 #strong[Operating Systems:] Windows, MacOS, Android, iOS, Linux
 
-#strong[Frameworks:] Django, Flask
+#strong[Frameworks:] Django, Flask, Express, React
 
 #strong[Soft Skills:] Customer Service, Cross-team Collaboration, Mentorship
 
