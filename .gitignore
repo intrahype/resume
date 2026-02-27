@@ -219,5 +219,6 @@ __marimo__/
 # MacOS
 .DS_store
 
-# Directory
+# Directory and extra configs
 rendercv_output2/
+Kenyon_Fryman_CV.yaml

@@ -128,6 +128,16 @@ cv:
         highlights:
           - Responsible for daily cash counts 
           - Acted as Concierge for high-profile guests
+      - company: Kansas Department of Wildlife and Parks
+        position: Support Worker
+        date:
+        start_date: 2010-05
+        end_date: 2010-07
+        location: Garden City, KS
+        summary: Responsible for fence and vehicle maintenance
+        highlights:
+          - Gave public tours of range and Bison herd
+          - Supervised 3 other part-time workers for special projects
     projects:
       - name: '[Portfolio](https://github.com/)'
         date:
